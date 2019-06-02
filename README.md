@@ -14,11 +14,18 @@ sort them based on the number of times that they are present in the cipher text.
 Example
 
 The password stored in the cipher text:
+
 ahdscajsasjfdksdjfjkadjkfdjdfjdffddjddjdjdjdjdjfjjjfjjfj12493932199391919199493943919191
+
 is
+
 jd9f
+
 The password stored in the cipher text:
+
 dddbbbcccfffaaa
+
 is
+
 dbcf
 
