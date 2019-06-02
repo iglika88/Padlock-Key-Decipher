@@ -92,7 +92,7 @@ for (g = 0; g < length; ++g)
                 }
             }
         }
-//sorts the array strPass in descending order according to the [..][0] dimension, keeping all pairs in the two dimensions        
+//sorts the array strPass in descending order according to the [..][0] dimension, keeping all pairs between the two dimensions        
 
 printf("The password is: \n");
 
@@ -103,7 +103,6 @@ int four=0;
 for (i=0; i<length; i++)
 {if ((strKey[i][1]!=-1)&& four<4)
 {temp = strKey[i][1];
-//printf("%d\n", strPass[i][1]);
 printf("%c", strCipher[temp]);
 four++;
 }
